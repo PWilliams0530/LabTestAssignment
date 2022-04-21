@@ -1,0 +1,9 @@
+\\Mac\Home\Documents\InterviewLab\InterviewLabCodingExercise\InterviewLabCodingExercise\bin\Debug\netcoreapp3.1\InterviewLabCodingExercise.deps.json
+\\Mac\Home\Documents\InterviewLab\InterviewLabCodingExercise\InterviewLabCodingExercise\bin\Debug\netcoreapp3.1\InterviewLabCodingExercise.dll
+\\Mac\Home\Documents\InterviewLab\InterviewLabCodingExercise\InterviewLabCodingExercise\bin\Debug\netcoreapp3.1\InterviewLabCodingExercise.pdb
+\\Mac\Home\Documents\InterviewLab\InterviewLabCodingExercise\InterviewLabCodingExercise\obj\Debug\netcoreapp3.1\InterviewLabCodingExercise.csprojAssemblyReference.cache
+\\Mac\Home\Documents\InterviewLab\InterviewLabCodingExercise\InterviewLabCodingExercise\obj\Debug\netcoreapp3.1\InterviewLabCodingExercise.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\InterviewLab\InterviewLabCodingExercise\InterviewLabCodingExercise\obj\Debug\netcoreapp3.1\InterviewLabCodingExercise.AssemblyInfo.cs
+\\Mac\Home\Documents\InterviewLab\InterviewLabCodingExercise\InterviewLabCodingExercise\obj\Debug\netcoreapp3.1\InterviewLabCodingExercise.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\InterviewLab\InterviewLabCodingExercise\InterviewLabCodingExercise\obj\Debug\netcoreapp3.1\InterviewLabCodingExercise.dll
+\\Mac\Home\Documents\InterviewLab\InterviewLabCodingExercise\InterviewLabCodingExercise\obj\Debug\netcoreapp3.1\InterviewLabCodingExercise.pdb
